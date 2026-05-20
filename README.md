@@ -14,7 +14,7 @@ Implementasi **watermarking citra** menggunakan pipeline JPEG yang dibangun dari
 ## Arsitektur Pipeline
 
 ```
-![image alt](output/step10_langkah_langkah.jpeg)
+![Diagram Langkah-Langkah Pipeline](output/step10_langkah_langkah.jpeg)
 ```
 
 ---
