@@ -1,4 +1,4 @@
-# JPEG Watermarking From Scratch — Sistem Multimedia
+# JPE Watermarking From Scratch — Sistem Multimedia
 
 **Nama:** Brandon Zeko Alexander  
 **NIM:** 18224118
@@ -14,12 +14,7 @@ Implementasi **watermarking citra** menggunakan pipeline JPEG yang dibangun dari
 ## Arsitektur Pipeline
 
 ```
-INPUT (x) → RGB→YCbCr → Level Shift −128 → Chroma Downsample 4:2:0
-           → Padding ke kelipatan 8 → Blok 8×8 → 2D DCT
-           → [EMBED WATERMARK di koefisien mid-frequency]
-           → Quantization → Zigzag Scan → RLE Encoding
-           → RLE Decode → Dequantize → IDCT
-           → Chroma Upsample → YCbCr→RGB → OUTPUT watermarked (y)
+![image alt](output/step10_langkah_langkah.jpeg)
 ```
 
 ---
