@@ -1,4 +1,4 @@
-# JPEG Watermarking From Scratch — Sistem Multimedia anjay
+# JPEG Watermarking From Scratch — Sistem Multimedia
 
 **Nama:** Brandon Zeko Alexander  
 **NIM:** 18224118
